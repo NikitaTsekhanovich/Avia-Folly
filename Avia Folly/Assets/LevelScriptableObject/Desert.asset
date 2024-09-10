@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4249bb4323bf21b499dbb7dcd6ee0af7, type: 3}
+  m_Name: Desert
+  m_EditorClassIdentifier: 
+  _name: Desert
+  _background: {fileID: 21300000, guid: 763f1f1e20ce5c940a2e7660a9871030, type: 3}
+  _nameLevelImage: {fileID: 21300000, guid: 845d217c2ef8a3643a9c55dd4561cae5, type: 3}
+  _platforms:
+  - {fileID: 3594921671469956691, guid: e5e06f30ea8410e4cb6bb1ec83e16938, type: 3}
+  - {fileID: 3594921671469956691, guid: 54867edd308ae514ebfe9366250823d4, type: 3}
+  - {fileID: 3594921671469956691, guid: 6c4e7147536831c4fa7ceb14f640b561, type: 3}
+  _coordPlatforms: {fileID: 7167267733520656959, guid: aa734c06eb26b374ca316b58f27ca594, type: 3}
+  _airplanes:
+  - {fileID: 2411123913224082621, guid: a1c94a587cf68cc48a8663d5f2a4aa3a, type: 3}
+  - {fileID: 2411123913224082621, guid: 1eb10534607eb454d90f7b37490b9057, type: 3}
+  - {fileID: 2411123913224082621, guid: 053bf23478d55514282b28bde5b41886, type: 3}
+  - {fileID: 2411123913224082621, guid: 7a1e588bfeb69c54db50b494d4bf27c0, type: 3}
+  - {fileID: 2411123913224082621, guid: 7f598fc6132ff924e8b17ddfedc72e56, type: 3}
+  - {fileID: 2411123913224082621, guid: e484e9d2b7763184489bee742eb36566, type: 3}
+  - {fileID: 2411123913224082621, guid: b04064ac16c6aa64886a3a831107d43c, type: 3}
+  - {fileID: 2411123913224082621, guid: cbc47850f334a3b43a84ecbb33cf0af2, type: 3}
+  - {fileID: 2411123913224082621, guid: fd941e7c6b529dd468abfbbaa804845c, type: 3}
+  _aircraftToOpen: 70
+  _aircraftToOpenNextLevel: 40
+  _nextLevelName: Jungle
+  _delaySpawnEasy: 7
+  _delaySpawnMedium: 5
+  _delaySpawnHard: 2
+  CurrentDifficulty: 0
+  CurrentAttempt: 0

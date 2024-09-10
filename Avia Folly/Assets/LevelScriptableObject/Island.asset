@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4249bb4323bf21b499dbb7dcd6ee0af7, type: 3}
+  m_Name: Island
+  m_EditorClassIdentifier: 
+  _name: Island
+  _background: {fileID: 21300000, guid: 56cd6876aa5f3044c827798b147b1fb7, type: 3}
+  _nameLevelImage: {fileID: 21300000, guid: 1e55225f759e5294d85a02e59cf477c5, type: 3}
+  _platforms:
+  - {fileID: 3594921671469956691, guid: b1b3d85e02b43654abe144c4377e4725, type: 3}
+  - {fileID: 3594921671469956691, guid: e6c9b1245a54a1f448ecfe55cf559b4c, type: 3}
+  _coordPlatforms: {fileID: 7167267733520656959, guid: 84b8be5a7a1d120459bdf6a03a03ca70, type: 3}
+  _airplanes:
+  - {fileID: 2411123913224082621, guid: 4322c41be47e41141a2c5d9a5d60d625, type: 3}
+  - {fileID: 2411123913224082621, guid: 94e25318e24bb5a4d9fe058204321507, type: 3}
+  - {fileID: 2411123913224082621, guid: 26c1ff670d637b246a47df172eb6e6c6, type: 3}
+  - {fileID: 2411123913224082621, guid: c5d233932bb410b41ad8b2e26958bf02, type: 3}
+  - {fileID: 2411123913224082621, guid: 3f35d4d71c08ac24eb060e10f3fc27a4, type: 3}
+  - {fileID: 2411123913224082621, guid: 1e8adbf3082fc6c46b6394646ac932e6, type: 3}
+  _aircraftToOpen: 0
+  _aircraftToOpenNextLevel: 40
+  _nextLevelName: Desert
+  _delaySpawnEasy: 7
+  _delaySpawnMedium: 5
+  _delaySpawnHard: 2
+  CurrentDifficulty: 0
+  CurrentAttempt: 1
