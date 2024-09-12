@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Jungle
   m_EditorClassIdentifier: 
   _name: Jungle
-  _background: {fileID: 21300000, guid: 7a5e940d42c96e64d98c13641038ada2, type: 3}
+  _background: {fileID: 21300000, guid: 0dc0de02ddd7fd04facc0627dfb9c0dd, type: 3}
   _nameLevelImage: {fileID: 21300000, guid: 168483ba1514eac4198a3d02f0a5fe32, type: 3}
   _platforms:
   - {fileID: 3594921671469956691, guid: b1b3d85e02b43654abe144c4377e4725, type: 3}

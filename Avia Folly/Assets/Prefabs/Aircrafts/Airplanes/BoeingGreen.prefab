@@ -98,7 +98,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.48, y: 2.4}
+  m_Size: {x: 1.51, y: 2.4}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -269,7 +269,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98d52824be359a041aa614e16b809862, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _explosionAudio: {fileID: 8039666010990745631}
 --- !u!82 &8039666010990745631
 AudioSource:
   m_ObjectHideFlags: 0
