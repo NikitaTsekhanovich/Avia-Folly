@@ -11,3 +11,9 @@
 создание уровней происходит за счет "перетаскивания" нужных параметров в ScriptableObject.
 При таком подходе для создания нового уровня не нужно залазить в код и зменять сцены.
 
+# Скриншоты
+![Image Sequence_001_0000](https://github.com/user-attachments/assets/0a011a60-32fc-4f8f-a425-a39aa44ed772)
+![Image Sequence_005_0000](https://github.com/user-attachments/assets/6fcd7ca6-4b07-4dd5-af91-0c54b17b1201)
+![Image Sequence_004_0000](https://github.com/user-attachments/assets/11d43585-f1e0-4285-ab6a-821e3e504fe9)
+![Image Sequence_003_0000](https://github.com/user-attachments/assets/719c7aaa-bde5-4664-970e-7e9590cefd8f)
+![Image Sequence_002_0000](https://github.com/user-attachments/assets/633dff76-f509-405f-a34a-5520e03e7c89)
